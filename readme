@@ -1,0 +1,31 @@
+Groceries Management System (GMS)
+
+Section A:	Program Specification
+Due to busy schedule most of us prefer online shopping even to buy groceries and household items, In this situation FRESHCO Sdn Bhd hire you as a programmer to develop Groceries Management System (GMS) which will be used by “FRESHCO Sdn Bhd” a Malaysian leading company to manage groceries functionalities. 
+A good System allows you to effectively manage all transactions of customers easily. 
+
+Functionality of GMS
+There are 3 users for this system, 1. Admin 2. New Customer 3. Registered Customer. 
+The following characteristics are important to be included in your system:
+Admin
+1.	Can login to access system.
+2.	Can upload Groceries detail in system. (Medicine name, exp date, price, specification, etc...)
+3.	Can view all uploaded Groceries
+4.	Can update/modify Groceries information if required.
+5.	Can delete Groceries information.
+6.	Can search specific Groceries detail.
+7.	Can view all orders of customers.
+8.	Can search order of specific customer.
+9.	Exit
+New Customer
+1.	Can view Groceries detail.
+2.	Can do registration by providing their detail like Name, Address, Email ID, Contact Number, Gender, Date_Of_Birth, User ID, Password, Rewrite Password, etc…
+3.	Exit
+
+Registered Customer
+1.	Can login to the system.
+2.	View all Groceries detail.
+3.	Place order of Groceries and do payment.
+4.	Can view own order.
+5.	Can view personal information.
+6.	Exit
