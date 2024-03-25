@@ -1,0 +1,6 @@
+vodka   12.40
+beer	9.50	
+rum	11.45	
+gin	10.50	
+jager	15.90	
+sake	18.00	

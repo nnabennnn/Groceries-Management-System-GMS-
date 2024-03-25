@@ -1,0 +1,5 @@
+test	36.85	beer,rum,jag	
+ali	21.95	rum,gin	
+ben	49.4	sake,vodka,beer,beer	
+tom	59.9	gin,sake,vodka,beer,beer	
+jassar	20.0	beer,gin	
